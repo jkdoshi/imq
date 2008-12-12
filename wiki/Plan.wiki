@@ -1,0 +1,9 @@
+#summary describes the high-level plan-of-action for this project.
+#labels Phase-Requirements
+
+= Concept =
+
+The middleware platform is just a mean to an end. The end in mind is creation of industry vertical (mortgage, insurance, healthcare) -specific modules for close to out-of-the-box integration (with minimum configuration).
+
+  * Research the existing integration platforms to see what the state-of-the-art is currently. It is quite possible that one of the opensource projects is sufficiently close to what we want to be build. In that case, take that one, modify it as needed and then add industry-specific modules.
+  * Decide on and prioritize a couple of industry verticals to 
