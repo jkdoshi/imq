@@ -16,7 +16,12 @@ Others solutions:
 The following are the projects we are or should be looking at.
 
 == [http://activemq.apache.org/ Apache ActiveMQ] ==
-== JBoss jBPM ==
+_add research findings here_
+== [http://www.jboss.com/products/jbpm JBoss jBPM] ==
+_add research findings here_
 == [http://mule.mulesource.org/ Mule] ==
-== Apache ActiveMQ ==
-== Apache ServiceMix ==
+_add research findings here_
+== [https://open-esb.dev.java.net/ OpenESB] ==
+_add research findings here_
+== [http://servicemix.apache.org/home.html Apache ServiceMix] ==
+_add research findings here_
