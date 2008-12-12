@@ -1,0 +1,22 @@
+#summary a study of the current state-of-the-art in middleware platforms.
+
+= Introduction =
+
+Before we rush out and build our own new middleware platform, we should first study what's out there. It is entirely possible that another project is fairly close to what we need. In that case, instead of reinventing the wheel, we just use that project, modify it to our needs, and add the industry vertical-specific features and modules.
+
+== Why might we still invent our own? ==
+Others solutions:
+  * are not lightweight enough
+  * do not support multiple programming languages
+  * licensing is not conducive
+  * are not easiy modifiable to our needs
+
+= Projects =
+
+The following are the projects we are or should be looking at.
+
+== [http://activemq.apache.org/ Apache ActiveMQ] ==
+== JBoss jBPM ==
+== [http://mule.mulesource.org/ Mule] ==
+== Apache ActiveMQ ==
+== Apache ServiceMix ==
